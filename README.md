@@ -10,27 +10,16 @@ Hi, I’m Vishwajeet, a developer who enjoys building practical tools and apps w
 - **Fun Fact:** When I’m not coding, you might find me dreaming up my next pet project or sipping chai while debugging.
 
 
-### 💻 Tech Stack
-Here’s the toolbox I wield to bring ideas to life:
-
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
-- **Backend:** Python, Node.js, Neon Postgres
-- **APIs & AI:** Deepseek API, public APIs (weather, stocks, etc.)
-- **Tools:** Git, GitHub, VS Code, and a sprinkle of creativity
-
 ### 🚧 What’s Next?
-I’m always tinkering with new ideas! Some upcoming projects include:
+I’m always experimenting with fresh ideas and striving to expand my skill set. Here’s a peek at what’s on the horizon:
 
-- A real-time dashboard for personal finance using Next.js and public stock APIs.
-- An AI-powered learning assistant with Python and Deepseek API to make studying more engaging.
-- A fun side project to gamify productivity (because who doesn’t love a little motivation?).
+- Developing a **real-time personal finance dashboard** with Next.js and public stock APIs, or crafting an **AI-powered learning assistant** using Python and the Deepseek API.
+- Deepening my knowledge of **iOS Native (SwiftUI)**—excited to apply these skills and launch a practical iOS app soon.
+- Working on a side project to gamify productivity—because a little extra motivation makes progress even more rewarding!
 
-### 🤝 Let’s Connect!
+### 🤝 Let’s Connect & Collaborate!
+Thanks for stopping by! 
 
-- Check out my repos below to dive into the code.
-- Got an idea for a cool project? Feel free to open an issue or fork a repo to collaborate!
-- Find me on X for tech chats, project updates, or just to say hi.
-
-
-### 🎉 Thanks for Stopping By!
-Explore my repositories, star your favorites, and let’s build something awesome together. Happy coding! 🚀
+- Dive into my repositories below to explore the code, and don't hesitate to star your favorites.
+- If you have a cool project idea, feel free to open an issue or fork a repo to collaborate.
+- Let's build something awesome together! Happy coding! 🚀
