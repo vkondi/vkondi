@@ -1,31 +1,65 @@
-### Welcome to my GitHub! 👋
+# 🚀 Vishwajeet Kondi
 
-Hi, I’m Vishwajeet Kondi, a developer who enjoys building practical tools and apps with code. My GitHub is home to projects where I experiment with **React, Next.js, Python, Node.js, TypeScript, Neon Postgres, and the Deepseek API**. I love creating solutions that are useful and user-friendly, often inspired by everyday challenges. Take a look around my repos to see what I’ve been working on! 😊
+**Pune, India**  | **Full-Stack Engineer** 
 
-### 🚧 What’s Next?
-I’m always experimenting with fresh ideas and striving to expand my skill set. Here’s a peek at what’s on the horizon:
-
-- Developing a **real-time personal finance dashboard** with Next.js and public stock APIs, or crafting an **AI-powered learning assistant** using Python and the Deepseek API.
-- Deepening my knowledge of **iOS Native (SwiftUI)**—excited to apply these skills and launch a practical iOS app soon.
-- Working on a side project to gamify productivity—because a little extra motivation makes progress even more rewarding!
-
-### 🤝 Let’s Connect & Collaborate!
-Thanks for stopping by! 
-
-- Dive into my repositories below to explore the code, and don't hesitate to star your favorites.
-- If you have a cool project idea, feel free to open an issue or fork a repo to collaborate.
-- Let's build something awesome together! Happy coding! 🚀
+Building scalable enterprise systems by day, and architecting the future with AI and mobile by night.
 
 ---
 
+### 🛠️ The Tech Stack
 
-![React](https://skillicons.dev/icons?i=react)
-![Nextjs](https://skillicons.dev/icons?i=nextjs)
-![Python](https://skillicons.dev/icons?i=python)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Postgresql](https://skillicons.dev/icons?i=postgresql)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Microsoft Azure](https://skillicons.dev/icons?i=azure)
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![AI](https://skillicons.dev/icons?i=ai)
+*Expertise across the full development lifecycle.* 
+
+* **Frontend:** React.js, Next.js, TypeScript, Micro Frontends, React Native 
+
+
+* **Backend:** Node.js, Express.js, GraphQL 
+
+
+* **Cloud & Data:** Microsoft Azure, SQL, Redis 
+
+
+* **Experimenting With:** Python, Deepseek API, SwiftUI
+
+---
+
+### 🏢 Professional Architecture
+
+*Leading high-performance teams and engineering excellence.* 
+
+* **Associate Director @ UBS:** Leading the **Client Advisor Workbench**, a React-based platform serving 5,000+ advisors.
+
+
+* **Lead Engineer @ EPAM (Atlassian):** Developed **Recruitment Central**, a scalable system that streamlined hiring workflows with Redis caching and optimized database queries.
+
+
+* **Lennar Nova:** Engineered a monitoring platform tracking land-to-home purchase lifecycles for **500+ field auditors**.
+
+
+
+---
+
+### 🧪 The Innovation Lab
+
+*What I’m currently building in my repositories:*
+
+* 📊 **Personal Finance Dashboard:** A real-time tracker using **Next.js** and public stock APIs.
+* 🤖 **AI Learning Assistant:** Leveraging **Python** and **Deepseek API** for smart utility tools.
+* 📱 **iOS Native:** Diving deep into **SwiftUI** to gamify productivity.
+
+
+---
+
+### 🤝 Let's Connect
+
+* **[LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/vishwajeetkondi)** 
+
+* **[Portfolio](https://vishwajeetkondi.vercel.app/)** 
+
+* **[Email](mailto:vkondi@gmail.com)** 
+
+---
+
+### 👋 Let's Build Together
+
+Explore the code in my repositories, fork what interests you, and let's collaborate on something impactful.  **Open an issue or reach out directly**, I'm always up for solving complex problems with talented people.
