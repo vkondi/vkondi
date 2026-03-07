@@ -63,3 +63,8 @@ Building scalable enterprise systems by day, and architecting the future with AI
 ### 👋 Let's Build Together
 
 Explore the code in my repositories, fork what interests you, and let's collaborate on something impactful.  **Open an issue or reach out directly**, I'm always up for solving complex problems with talented people.
+
+---
+
+![](https://komarev.com/ghpvc/?username=vkondi)
+
