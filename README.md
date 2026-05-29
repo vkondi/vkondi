@@ -1,70 +1,60 @@
 # 🚀 Vishwajeet Kondi
 
-**Pune, India**  | **Full-Stack Engineer** 
+**Pune, India** | **Full-Stack Engineer**
 
-Building scalable enterprise systems by day, and architecting the future with AI and mobile by night.
-
----
-
-### 🛠️ The Tech Stack
-
-*Expertise across the full development lifecycle.* 
-
-* **Frontend:** React.js, Next.js, TypeScript, Micro Frontends, React Native 
-
-
-* **Backend:** Node.js, Express.js, GraphQL 
-
-
-* **Cloud & Data:** Microsoft Azure, SQL, Redis 
-
-
-* **Experimenting With:** Python, Deepseek API, SwiftUI
+Full-stack engineer with 14+ years of experience building enterprise applications across web, mobile, and cloud. Currently exploring AI workflows, local LLMs, and modern mobile development.
 
 ---
 
-### 🏢 Professional Architecture
+### Tech Stack
 
-*Leading high-performance teams and engineering excellence.* 
+**Frontend**
 
-* **Associate Director @ UBS:** Leading the **Client Advisor Workbench**, a React-based platform serving 5,000+ advisors.
+React, Next.js, TypeScript, React Native, Micro Frontends
 
+**AI / LLM**
 
-* **Lead Engineer @ EPAM (Atlassian):** Developed **Recruitment Central**, a scalable system that streamlined hiring workflows with Redis caching and optimized database queries.
+AI Agents, Prompt Engineering, Ollama, Gemini, DeepSeek, Local AI Workflows
 
+**Backend & APIs**
 
-* **Lennar Nova:** Engineered a monitoring platform tracking land-to-home purchase lifecycles for **500+ field auditors**.
+Node.js, Express.js, Python, GraphQL
 
+**Cloud & Data**
 
+Microsoft Azure, SQL, PostgreSQL, Redis
 
 ---
 
-### 🧪 The Innovation Lab
+### Professional Experience
 
-*What I’m currently building in my repositories:*
+- **Associate Director · UBS:** Leading development of *Client Advisor Workbench*, a React platform supporting 5,000+ financial advisors.
 
-* 📊 **Personal Finance Dashboard:** A real-time tracker using **Next.js** and public stock APIs.
-* 🤖 **AI Learning Assistant:** Leveraging **Python** and **Deepseek API** for smart utility tools.
-* 📱 **iOS Native:** Diving deep into **SwiftUI** to gamify productivity.
+- **Lead Engineer · EPAM (Atlassian):** Built and optimized *Recruitment Central*, improving hiring workflows through scalable frontend and backend engineering.
+
+- **Lennar Nova:** Worked on systems supporting the home-building lifecycle, from land acquisition to home purchase operations.
+
+---
+
+### Current Projects
+
+- **Personal Finance Dashboard:** Next.js application for tracking investments and financial insights.
+
+- **AI Experiments & Workflows:** Building utilities around local models, LLM integrations, and developer productivity workflows.
 
 
 ---
 
-### 🤝 Let's Connect
+### Connect
 
-* **[LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/vishwajeetkondi)** 
+- [LinkedIn](https://www.linkedin.com/in/vishwajeetkondi/)
+- [Portfolio](https://vishwajeetkondi.vercel.app/)
+- Email: [vkondi@gmail.com](mailto:vkondi@gmail.com)
 
-* **[Portfolio](https://vishwajeetkondi.vercel.app/)** 
 
-* **[Email](mailto:vkondi@gmail.com)** 
 
----
+Always open to discussing engineering, AI, product ideas, and interesting side projects.
 
-### 👋 Let's Build Together
-
-Explore the code in my repositories, fork what interests you, and let's collaborate on something impactful.  **Open an issue or reach out directly**, I'm always up for solving complex problems with talented people.
-
----
+--- 
 
 ![](https://komarev.com/ghpvc/?username=vkondi)
-
