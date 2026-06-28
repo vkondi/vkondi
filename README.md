@@ -1,8 +1,8 @@
 # 🚀 Vishwajeet Kondi
 
-**Pune, India** | **Full-Stack Engineer**
+**Pune, India** | **Full-Stack Engineer building LLM-powered applications**
 
-Full-stack engineer with 14+ years of experience building enterprise applications across web, mobile, and cloud. Currently exploring AI workflows, local LLMs, and modern mobile development.
+Full-stack engineer with 14+ years of experience building enterprise applications across web, mobile, and cloud. I enjoy building practical applications powered by LLMs, developer tools, and local AI workflows using React, TypeScript, Python, and Node.js.
 
 ---
 
@@ -10,19 +10,19 @@ Full-stack engineer with 14+ years of experience building enterprise application
 
 **Frontend**
 
-React, Next.js, TypeScript, React Native, Micro Frontends
+React • Next.js • TypeScript • React Native • Micro Frontends
 
 **AI / LLM**
 
-AI Agents, Prompt Engineering, Ollama, Gemini, DeepSeek, Local AI Workflows
+LLM Applications • AI Agents • Ollama • Gemini • DeepSeek • Prompt Engineering • Local AI Workflows
 
 **Backend & APIs**
 
-Node.js, Express.js, Python, GraphQL
+Node.js • Express.js • Python • GraphQL
 
 **Cloud & Data**
 
-Microsoft Azure, SQL, PostgreSQL, Redis
+Microsoft Azure • PostgreSQL • SQL • Redis
 
 ---
 
@@ -32,16 +32,17 @@ Microsoft Azure, SQL, PostgreSQL, Redis
 
 - **Lead Engineer · EPAM (Atlassian):** Built and optimized *Recruitment Central*, improving hiring workflows through scalable frontend and backend engineering.
 
-- **Lennar Nova:** Worked on systems supporting the home-building lifecycle, from land acquisition to home purchase operations.
+- **Lennar Nova:** Developed applications supporting the home-building lifecycle, from land acquisition to home purchase.
 
 ---
 
 ### Current Projects
 
-- **Personal Finance Dashboard:** Next.js application for tracking investments and financial insights.
+- LLM-powered applications using local and cloud models
 
-- **AI Experiments & Workflows:** Building utilities around local models, LLM integrations, and developer productivity workflows.
+- Local AI workflows with Ollama and RAG/CAG
 
+- Developer tools and productivity utilities
 
 ---
 
@@ -53,7 +54,7 @@ Microsoft Azure, SQL, PostgreSQL, Redis
 
 
 
-Always open to discussing engineering, AI, product ideas, and interesting side projects.
+Always happy to connect over software engineering, LLM applications, developer tooling, and interesting side projects.
 
 --- 
 
